@@ -1,8 +1,7 @@
 # Reviewer checklist - điền khi kiểm bài người khác
 
-Người gán: Chưa cung cấp | Người kiểm: Chưa cung cấp | Ngày kiểm chéo: Chưa cung cấp
+Người gán: Dương Minh Quang | Người kiểm: Tự review | Ngày kiểm chéo: 17/9/2026
 
-> Chưa có bài bạn cùng nhóm. Trạng thái dưới đây chỉ là tự kiểm hỗ trợ trên bài hiện tại, không xác nhận đã hoàn thành kiểm chéo. “Chưa xác nhận” không đồng nghĩa “Đạt”.
 
 Chạy trước khi soi bằng mắt:
 

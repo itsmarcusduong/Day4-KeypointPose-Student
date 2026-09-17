@@ -1,4 +1,4 @@
-# Mini guideline - nhóm: Chưa cung cấp | người gán: Chưa cung cấp | ngày: Chưa cung cấp
+# Mini guideline - nhóm: T51 | người gán: Dương Minh Quang | ngày: 17/9/2026
 
 > Điền file này **trong lúc** gán nhãn, không phải sau khi xong. Mỗi lần bạn dừng lại
 > hơn 10 giây để phân vân, đó là một dòng phải ghi vào đây.

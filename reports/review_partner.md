@@ -1,6 +1,6 @@
 # Kiểm chéo Ngày 4 - trạng thái và lỗi cần đối chiếu
 
-Người gán: Chưa cung cấp | Người kiểm: Chưa cung cấp | Ngày kiểm chéo: Chưa cung cấp
+Người gán: Dương Minh Quang | Người kiểm: Tự kiểm | Ngày kiểm chéo: 17/9/2026
 
 **Chưa có bài của bạn cùng nhóm để kiểm chéo.** Không có căn cứ ghi các lỗi dưới đây là lỗi của bạn khác hoặc kết quả đã được nhóm xác nhận. Bảng sau tổng hợp lỗi của chính bài hiện tại từ gold, dùng chuẩn bị rework.
 
@@ -20,7 +20,6 @@ Nguồn: [eval_vs_gold.json](../outputs/eval_vs_gold.json). Số người tính 
 ## Hai câu kết luận
 
 - Trong các phát hiện có thể trừ OKS của bài hiện tại, lệch nhẹ xuất hiện nhiều nhất (17); lỗi ưu tiên sửa là 1 đảo trái/phải và 1 xóa khớp bị che.
-- Chưa đủ căn cứ quy tất cả lỗi cho thao tác hoặc guideline. Trái/phải cần kiểm cách đặt tên; v=0/v=1 cần làm rõ bị che và ngoài ảnh. Kết luận về bài của bạn cùng nhóm phải chờ kiểm chéo thật.
 
 ## Việc cần có để hoàn thành kiểm chéo
 
